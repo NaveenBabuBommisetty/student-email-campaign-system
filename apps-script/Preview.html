@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <base target="_top">
+</head>
+
+<body>
+
+  <div id="emailContent"></div>
+
+  <script>
+
+    const htmlContent = <?!= JSON.stringify(emailBody) ?>;
+
+    document.getElementById('emailContent').innerHTML = htmlContent;
+
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+const SHEET_NAMES = {
+  STUDENTS: 'Students',
+  COURSES: 'Courses',
+  TEMPLATE_TYPES: 'TemplateTypes',
+  EMAIL_TEMPLATES: 'EmailTemplates',
+  EMAIL_LOGS: 'EmailLogs',
+  TEMPLATE_VARIABLES: 'TemplateVariables'
+};
+
+const TEMPLATE_TYPES = {
+  WELCOME: 'WELCOME',
+  IMPORTANT_UPDATE: 'IMPORTANT_UPDATE'
+};
+
+const STATUS = {
+  ACTIVE: 'ACTIVE',
+  INACTIVE: 'INACTIVE'
+};
+
+const CAMPAIGN_CONFIG = {
+  BATCH_SIZE: 5,
+  BATCH_DELAY_MS: 2000
+};
