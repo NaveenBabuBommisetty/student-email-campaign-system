@@ -377,20 +377,6 @@ Log Results
 
 ---
 
-# Recommended Commit Messages
-
-```text
-feat: initialize Apps Script project structure
-feat: implement dynamic email template engine
-feat: add HTML email preview support
-feat: implement Gmail email sending
-feat: add email logging system
-feat: implement bulk campaign sending
-feat: prevent duplicate email delivery
-feat: add batch processing for campaigns
-```
-
----
 
 # Future Improvements
 
