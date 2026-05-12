@@ -30,6 +30,13 @@ This project supports:
 
 ---
 
+## Full Video
+
+Watch here:
+https://youtube.com/watch?v=SYZ28ljw9ds
+
+---
+
 # Architecture
 
 The system follows a clean service-based architecture.
